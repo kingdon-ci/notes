@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "84112bbb04813d9c",
+    "id": "598aa6190737af67",
     "type": "split",
     "children": [
       {
-        "id": "2d6c912f515a128f",
+        "id": "c1eb190b4119669a",
         "type": "tabs",
         "children": [
           {
-            "id": "335f7714430439ea",
+            "id": "9b53ba7d7e2912e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,36 +22,20 @@
             }
           }
         ]
-      },
-      {
-        "id": "7d560ebbed8bd771",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0e8005df1e2de1b7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "27b4f995339bf4cd",
+    "id": "08972105a60cfe93",
     "type": "split",
     "children": [
       {
-        "id": "314bb87a9c02ee3a",
+        "id": "8d3ad77cf40637c4",
         "type": "tabs",
         "children": [
           {
-            "id": "55837727f71c05bd",
+            "id": "3f11a845b31e0a73",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -64,7 +48,7 @@
             }
           },
           {
-            "id": "59e0dc65bdfa442b",
+            "id": "262d555f4c87ee2c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -81,7 +65,7 @@
             }
           },
           {
-            "id": "f2f42d47ccb9334a",
+            "id": "b17a1bc1dedc5f10",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -97,20 +81,19 @@
     "width": 300
   },
   "right": {
-    "id": "f3daba1f2a458094",
+    "id": "6d4814f332f3079e",
     "type": "split",
     "children": [
       {
-        "id": "50ce185e8fef703b",
+        "id": "0ccae61502bc3116",
         "type": "tabs",
         "children": [
           {
-            "id": "610b12ea6e0d3aec",
+            "id": "b927fa27b51106ff",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,25 +103,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "ce6d29ca3b370024",
+            "id": "6e1b2948716a9969",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "a2fdaad2b12a4ab1",
+            "id": "40697b0db58fed99",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -153,18 +135,17 @@
             }
           },
           {
-            "id": "9b7e07fe0fe63472",
+            "id": "0c1230c18a01ebf1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline"
             }
           }
         ]
@@ -185,9 +166,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "55837727f71c05bd",
+  "active": "9b53ba7d7e2912e4",
   "lastOpenFiles": [
-    "notes",
-    "notes/Welcome.md"
+    "notes/Welcome.md",
+    "notes"
   ]
 }
