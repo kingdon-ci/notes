@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Obelisk.md",
+                "file": "notes/GitOpsCon - Talk Outline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obelisk"
+              "title": "GitOpsCon - Talk Outline"
             }
           }
         ]
@@ -168,8 +168,9 @@
   },
   "active": "9b53ba7d7e2912e4",
   "lastOpenFiles": [
-    "notes/Welcome.md",
     "notes/Obelisk.md",
+    "notes/GitOpsCon - Talk Outline.md",
+    "notes/Welcome.md",
     "().md",
     "Navteca/SCIP Project/Workday May 21 - 2025.md",
     "Navteca/SCIP Project",
