@@ -1,4 +1,4 @@
-On the EKS cluster, I think we'll be able to solve the problem of larger-than-average image pulls and cold starts causing a long delay between instance creation and pod ready time with Seekable OCI. In our Talos cluster, we've been using a pull-through registry cache (which is a SPOF in our infrastructure) to help us solve this problem.
+On the EKS cluster, I think we'll be able to solve the problem of larger-than-average image pulls and cold starts causing a long delay between instance creation and pod ready time with [[Seekable OCI]]. In our Talos cluster, we've been using a pull-through registry cache (which is a SPOF in our infrastructure) to help us solve this problem.
 
 https://spegel.dev/
 
