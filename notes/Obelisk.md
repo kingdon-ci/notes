@@ -13,3 +13,6 @@ Docs website based on MkDocs, includes:
 * Docker run instructions to test the whole thing out on your local machine...
 
 Will it work? IDK, but if it helps motivate me to get organized and use Obsidian more, then I'll do it.
+
+Obsidian-git: https://forum.obsidian.md/t/the-easiest-way-to-setup-obsidian-git-to-backup-notes/51429/6
+https://github.com/Vinzent03/obsidian-git
