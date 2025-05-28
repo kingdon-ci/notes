@@ -34,11 +34,12 @@
 		* ImagePolicy in 2.6:
 			* it's getting a reconciler now
 			* so we can finally use `:latest`
-			* (That's right, digest mode is in Flux IAC ✅)
+			* (That's right, digest mode is in Flux IAC ✅ soon, within a month)
 	* So that's what's in the box
 		* How does it feel like using it?
 * POV: I'm developing my app, I've got my platform team
 	* I'm pushing a new commit to my app, it's automatically sent to the dev env
+	* (that example IAC is easy, and has been covered before - left as an exercise)
 	* It LGTM, I'm merging the commit to main
 	* I tagged 0.1.1 on my amazing new app
 	* The platform team worked with me to come up with this ImagePolicy:
@@ -75,7 +76,11 @@ Is there any way we can make this better?
 
 We can make the image tag range more specific: `0.1.x` - less YOLO
 
-There isn't any way to make this better. We aren't really staffing crossplane-contrib, so we're not in a position to set up a webhook. Open source can't really take advantage of what I'm about to tell you. It's only for enterprises and individuals.
+Sidebar: note about SemVer - did you know that 0 in the MAJOR slot means Pre-Release? Any MINOR version bump can have breaking changes in it, until `v>=1.x`!
+
+There isn't any way to make this better. We aren't really staffing crossplane-contrib, so we're not in a position to set up a webhook. We don't own the repo. Open source can't really take advantage of what I'm about to tell you. It's only for enterprises and individuals.
 
 ## `Receiver` API is for Webhooks
+
+What is a Webhook?
 
