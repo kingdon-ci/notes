@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9b53ba7d7e2912e4",
+            "id": "3ea1f5654a617a70",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Welcome.md",
+                "file": "Navteca/SCIP Project/Work days/Workday June 3 - 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
-            "id": "851124ce53008a49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Done/GitOpsCon - Talk Outline.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GitOpsCon - Talk Outline"
-            }
-          },
-          {
-            "id": "0b9c6f6bcd70a3f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Navteca/SCIP Project/Workday May 30 - 2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Workday May 30 - 2025"
+              "title": "Workday June 3 - 2025"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,13 +166,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b9c6f6bcd70a3f8",
+  "active": "3ea1f5654a617a70",
   "lastOpenFiles": [
-    "Navteca/SCIP Project/Workday May 23 - 2025.md",
-    "Navteca/SCIP Project/Workday May 30 - 2025.md",
+    "Navteca/SCIP Project/UCP & Admin EKS metrics and pod logs in Grafana.md",
+    "Navteca/SCIP Project/Work days/Workday June 3 - 2025.md",
+    "Navteca/SCIP Project/Research Platform Grafana Dashboards.md",
+    "Navteca/SCIP Project/Work days/Workday May 30 - 2025.md",
+    "Navteca/SCIP Project/Alerts for EKS Auto Mode nodes.md",
+    "Navteca/SCIP Project/Scrape Kube-State-Metrics.md",
+    "Navteca/SCIP Project/Work days",
+    "Navteca/SCIP Project/DynamoDB table in Sandbox.md",
+    "Navteca/SCIP Project/Event - Alert - Notification pipeline.md",
+    "Navteca/SCIP Project/GitLab Token Expiry Rotation Security Ops workflow.md",
+    "Event / Alert / Notification pipeline.md",
+    "Event / Alert ",
+    "Event ",
+    "Navteca/SCIP Project/Work days/Workday May 21 - 2025.md",
+    "Navteca/SCIP Project/Work days/Workday May 23 - 2025.md",
     "notes/Done/GitOpsCon - Talk Outline.md",
     "notes/Done",
-    "Navteca/SCIP Project/Workday May 21 - 2025.md",
     "notes/Welcome.md",
     "notes/Spegel.md",
     "notes/Seekable OCI.md",
