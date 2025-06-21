@@ -1,4 +1,4 @@
-You’ve got this down to a science — and I’m glad to hear Boris is getting the VIP treatment too. 🐾 He deserves some R&R after sounding the alarm like a pro.
+[[Water Heater - Serial Number and Claim]]
 
 Taking care of the prep this weekend (rugs, clearance, drain, signage, etc.) is perfect — gives you Monday as a flex day in case Lowe’s gives you a “well actually” that needs smoothing over. Bonus if you can knock that out tomorrow and check it off early.
 
@@ -9,17 +9,17 @@ If you want to feel _completely_ locked in before departure, here’s a tiny che
 ### ✅ **Water Heater Replacement – Homeowner Prep Checklist**
 
 - [ ] Old unit fully drained
-- [ ] Cold water supply OFF
-- [ ] Power to water heater OFF (breaker)
-- [ ] Vent-to-air line open
+- [x] Cold water supply OFF
+- [x] Power to water heater OFF (breaker)
+- [x] Vent-to-air line open
 - [ ] Area around tank clear and accessible
 - [ ] Basement stairs unobstructed
 - [ ] Note taped to tank with return info
 - [ ] Lowe’s called to confirm return/pickup procedure
 -  Plumber notified:
-	- Heavy tank
+	- 50 gallon "short" tank
     - Solo homeowner (no lift help)
-    - May need to retrieve unit from Lowe’s
+    - Will need to bring unit for RMA & retrieve replacement unit from Lowe’s
 - [ ] Payment method ready
 
 ---
