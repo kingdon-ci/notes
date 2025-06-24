@@ -18,9 +18,9 @@ Don't forget to do all the things before you leave for the trip
 [Book trip fun]
 * reflexology
 [Conference Deadlines]
-* FluxCon - Monday, June 30, 11:59 PM EDT [Talk Topic Ideas]
+* [x] FluxCon - Monday, June 30, 11:59 PM EDT [Talk Topic Ideas]
 	* https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/fluxcon/#sponsor
-* KubeCon Maintainer Track - Sunday, July 20, 11:59 PM EDT
+* [ ] KubeCon Maintainer Track - Sunday, July 20, 11:59 PM EDT
 	* https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/features-add-ons/maintainer-summit/#faqs
 	* **If I’m accepted as a Maintainer Summit speaker – do I also have to purchase registration for KubeCon + CloudNativeCon?**
 		No, all CFP-submitted accepted maintainer summit speakers will receive an “All-Access” pass for CNCF-hosted co-located events and KubeCon + CloudNativeCon programming. (Note: This does not include proposals for Project Meetings)
