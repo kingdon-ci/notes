@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GPT Plumber Checklist.md",
+                "file": "notes/Done/GPT Plumber Checklist.md",
                 "mode": "source",
                 "source": false
               },
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,17 +205,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "71fe8740339a4ab3",
+  "active": "3f11a845b31e0a73",
   "lastOpenFiles": [
+    "Navteca/SCIP Project/Work days/Workday 2025-06-23.md",
     "Navteca/SCIP Project/Work days/Workday 2025-06-15.md",
     "Navteca/SCIP Project/Work days/Workday 2025-05-21.md",
     "Navteca/SCIP Project/Work days/Workday 2025-06-05.md",
     "Navteca/SCIP Project/Work days/Workday 2025-06-03.md",
     "Navteca/SCIP Project/Work days/Workday 2025-05-30.md",
     "Navteca/SCIP Project/Work days/Workday 2025-06-06.md",
-    "Navteca/SCIP Project/Work days/Workday 2025-06-23.md",
     "Navteca/SCIP Project/Work days/Workday 2025-06-11.md",
-    "GPT Plumber Checklist.md",
+    "notes/Done/GPT Plumber Checklist.md",
     "Private/Water Heater - Serial Number and Claim.md",
     "notes/Seekable OCI.md",
     "notes/Spegel.md",
