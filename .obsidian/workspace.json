@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Reminders for after Greece.md",
+                "file": "notes/Preflight Checks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reminders for after Greece"
+              "title": "Preflight Checks"
             }
           },
           {
@@ -207,8 +207,8 @@
   },
   "active": "25a7acfd328c15ef",
   "lastOpenFiles": [
-    "notes/Preflight Checks.md",
     "notes/Reminders for after Greece.md",
+    "notes/Preflight Checks.md",
     "Navteca/SCIP Project/Work days/Workday 2025-06-23.md",
     "Navteca/SCIP Project/Work days/Workday 2025-05-21.md",
     "Private/Water Heater - Serial Number and Claim.md",

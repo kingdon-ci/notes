@@ -1,20 +1,24 @@
 Don't forget to do all the things before you leave for the trip
 
 [Shopping List]
-* Greek dressing
-* Gold bond (regular and travel size)
-* Travel-size toothpaste
+* [x] Greek dressing
+* [x] Travel-size toothpaste
 * 
 [Remember to Pack]
-* Meds (sinus, amox, inhalers, )
-* Wedding outfit, new shirts, swim trunks (wash everything)
-* Bathroom supplies (toothbrush, floss)
-* Neck exercises docs
-* Foot strap
-* Earphones
+* [x] Meds (sinus, amox, inhalers, )
+* [x] Wedding outfit, new shirts, swim trunks (wash everything)
+* [x] Bathroom supplies (toothbrush, floss)
+* [x] Neck exercises docs
+* [x] Foot strap
+* [x] Earphones
+* [x] Gold bond (regular and travel size)
+* [x] More shoes
+* [x] Sandals
+* [ ] Camera
+* [ ] 
 * 
 [Trips out before leaving]
-* haircut
+* [x] haircut
 [Book trip fun]
 * reflexology
 [Conference Deadlines]
@@ -25,12 +29,14 @@ Don't forget to do all the things before you leave for the trip
 	* **If I’m accepted as a Maintainer Summit speaker – do I also have to purchase registration for KubeCon + CloudNativeCon?**
 		No, all CFP-submitted accepted maintainer summit speakers will receive an “All-Access” pass for CNCF-hosted co-located events and KubeCon + CloudNativeCon programming. (Note: This does not include proposals for Project Meetings)
 [Doggies Camping]
-* Remember to bring dog Anxiety meds
+* [x] Remember to bring dog Anxiety meds
 * Maybe want to try Fiona on cough med
 [Don't forget to eat]
-* Feta, tomato in fridge
-* (Anything that's going to expire)
+* [x] Feta, tomato in fridge
+* [x] (Anything that's going to expire)
 * Take out the trash
 [Next Beer Batch]
-* Gotta drink what we made first
-* (yes including that partly fermented N/A wort failure)
+* [x] Gotta drink what we made first
+* [x] (yes including that partly fermented N/A wort failure)
+* [ ] Helles Lager
+* [ ] German Pilsner

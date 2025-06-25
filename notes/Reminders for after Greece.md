@@ -11,4 +11,5 @@
 	* [ ] investigate what happens when all infra is reset
 		* [ ] (we found that vclusters were non-responsive with an authentication error)
 		      and needed to be reset, can we detect that condition and automate it
+		* [ ] Depending on the order of resets, the dd-wrt (front-end) router may decide it should use the 10.17.13.140 as the default route? that's odd...
 * [ ] 
